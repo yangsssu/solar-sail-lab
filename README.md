@@ -1,10 +1,16 @@
 # Solar Sail Lab
 
+## [▶ Open the simulator / 打开模拟器](https://yangsssu.github.io/solar-sail-lab/)
+
+**Click the link above or the preview below to launch. No installation or sign-in required.**
+
+[![Solar Sail Lab — interactive orbital and laser sail simulator](simulator-preview.jpg)](https://yangsssu.github.io/solar-sail-lab/)
+
 An interactive, browser-based solar/laser sail concept simulator. The interface is in Chinese. Runs entirely in the visitor's browser with no backend, account, installation, or external JavaScript dependencies.
 
 ## Use
 
-Open `index.html` locally, or visit the GitHub Pages deployment. Adjust parameters, click **计算轨迹** (Calculate trajectory), then play or scrub the timeline. CSV trajectory and JSON parameter exports are generated locally. Parameters are not shared between visitors or saved to a server.
+Open `index.html` locally, or [launch the online simulator](https://yangsssu.github.io/solar-sail-lab/). Adjust parameters, click **计算轨迹** (Calculate trajectory), then play or scrub the timeline. CSV trajectory and JSON parameter exports are generated locally. Parameters are not shared between visitors or saved to a server.
 
 Features include a Sun-centered orbital view, eight planets and the Moon, solar radiation pressure, laser propagation and light-time delays, simplified sail attitude control, and 1–12 configurable ground stations. Each station can have its own projected longitude, power, altitude, atmospheric transmission, availability coefficient, and pointing error. Stations can illuminate simultaneously or hand over as Earth rotates.
 
@@ -16,7 +22,7 @@ Features include a Sun-centered orbital view, eight planets and the Moon, solar 
 4. Set **Source → Deploy from a branch**, choose **main** and **/(root)**, and save.
 5. Wait for deployment to finish. GitHub displays the public site URL there.
 
-The usual project URL is `https://YOUR-USERNAME.github.io/solar-sail-lab/`. This is a URL pattern, not a currently deployed site.
+The usual project URL is `https://yangsssu.github.io/solar-sail-lab/`. The simulator is live at this address.
 
 Reference: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
 
