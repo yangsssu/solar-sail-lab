@@ -1,4 +1,6 @@
-# Solar Sail Lab
+# 地基激光推进深空探测器仿真平台
+
+**Ground-Based Laser Propulsion Simulator for Deep-Space Probes**
 
 **Author:** Yang Su · ENS-PSL · [yang.su@ens.fr](mailto:yang.su@ens.fr)
 
@@ -6,9 +8,9 @@
 
 **Click the link above or the preview below to launch. No installation or sign-in required.**
 
-[![Solar Sail Lab — interactive orbital and laser sail simulator](simulator-preview.jpg)](https://yangsssu.github.io/solar-sail-lab/)
+[![Ground-Based Laser Propulsion Simulator for Deep-Space Probes](simulator-preview.jpg)](https://yangsssu.github.io/solar-sail-lab/)
 
-An interactive, browser-based solar/laser sail concept simulator. The interface is in Chinese. Runs entirely in the visitor's browser with no backend, account, installation, or external JavaScript dependencies.
+An interactive simulator for deep-space probes propelled by ground-based lasers and solar radiation pressure, with configurable ground stations, trajectories, simplified attitude control, and light-time delays. The interface is in Chinese. Runs entirely in the visitor's browser with no backend, account, installation, or external JavaScript dependencies.
 
 ## Use
 
