@@ -1,5 +1,7 @@
 # Solar Sail Lab
 
+**Author:** Yang Su · ENS-PSL · [yang.su@ens.fr](mailto:yang.su@ens.fr)
+
 ## [▶ Open the simulator / 打开模拟器](https://yangsssu.github.io/solar-sail-lab/)
 
 **Click the link above or the preview below to launch. No installation or sign-in required.**
